@@ -1,2 +1,3 @@
 # git_test
-the odin project git testing
+First time creating repo from terminal.
+Hello Odin!
